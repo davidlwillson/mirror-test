@@ -1,0 +1,6 @@
+pages:
+  script:
+    - devops/build
+  artifacts:
+    paths:
+      - public
